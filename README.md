@@ -15,7 +15,7 @@ Therefore I decided to study Air Quality data and try to find correlation of the
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The data set has records of 5 different concentrations of gases with heat and time records.
 
 ## Team Members
 
