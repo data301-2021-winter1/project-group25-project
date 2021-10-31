@@ -25,7 +25,7 @@ The data set has records of 5 different concentrations of gases with heat and ti
 
 ## Images
 
-![here you go](./imagesconcentration comparison.png)
+![here you go](./images/concentration comparison.png)
 
 ## References
 
