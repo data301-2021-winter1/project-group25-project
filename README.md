@@ -11,6 +11,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 Global warming is an issue that affects all of us, despite social, economic class or ethnicity, the fact is the environment is crucial to our survival as a species.
 Therefore I decided to study Air Quality data and try to find correlation of the spread of certain gases throughout the day, hopefully to get or understand how human routine affects our air and environment. What I hope to acheive is a model of some sort that can help us predict air quality based on different factors by undertsanding their correlations to the air and gas measurements in the dataset. That way this project can be helpful to prevent further pollution from occuring or at least provide with a start to do so.
 
+From the image below we could see that the measurements of C6H6 and CO(GT) peak around the same time.
+
 {Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
@@ -23,7 +25,7 @@ The data set has records of 5 different concentrations of gases with heat and ti
 
 ## Images
 
-- no images so far
+![here you go](./imagesconcentration comparison.png)
 
 ## References
 
