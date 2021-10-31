@@ -25,7 +25,7 @@ The data set has records of 5 different concentrations of gases with heat and ti
 
 ## Images
 
-![Comparison Graph](../images/concentration comparison.png "a title")
+<img title="comparision" alt="CO and C6H6 concentrates" src="/images/concentration comparison.png ">
 ## References
 
 {Add your stuff here}
